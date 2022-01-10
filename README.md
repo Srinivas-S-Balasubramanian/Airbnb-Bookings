@@ -1,5 +1,4 @@
 # Airbnb-Bookings
-# DSA8002 - Coursework: Object-Oriented Programming meets Database
 
 ## Description
 An Airbnb dataset was provided, which contained details of Airbnb listings in Singapore. Expectation was to 
